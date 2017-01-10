@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MeetAtSport_TEST.iml" filepath="$PROJECT_DIR$/MeetAtSport_TEST.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/meetatsport.iml" filepath="$PROJECT_DIR$/meetatsport.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetatsportFinal.iml" filepath="$PROJECT_DIR$/meetatsportFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlite-android-3160100/sqlite-android-3160100.iml" filepath="$PROJECT_DIR$/sqlite-android-3160100/sqlite-android-3160100.iml" />
     </modules>
