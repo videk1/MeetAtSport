@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:srcCompat="@drawable/ic_add"
+        android:id="@+id/floatingActionButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        tools:fabSize="normal"
+        android:onClick="OnFabClick"
+        app:fabSize="normal"
+        android:layout_margin="10dp"/>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="fill_parent"
+                  android:orientation="vertical"
+                  android:layout_height="wrap_content">
+
+        <android.support.v7.widget.CardView
+
+            android:id="@+id/card_view_football"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:onClick="onFootballCardClick"
+            android:layout_weight="1">
+
+            <FrameLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true">
+
+
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/football"
+                    android:contentDescription="footballCard"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/info_text_football"
+                    android:layout_width="wrap_content"
+                    android:layout_height="83dp"
+                    android:layout_gravity="center"
+                    android:text="Nogomet"
+                    android:textAlignment="center"
+                    android:lines="1"
+                    android:textIsSelectable="false"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="0 prostih igrišč"
+                    android:id="@+id/info_text_footbal_description"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+
+
+            </FrameLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+
+
+            android:id="@+id/card_view_basketball"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:onClick="onBasketballCardClick"
+            android:layout_weight="1">
+
+            <FrameLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_centerInParent="true">
+
+
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/basketball"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/info_text_basketball"
+                    android:layout_width="wrap_content"
+                    android:layout_height="83dp"
+                    android:layout_gravity="center"
+                    android:text="Košarka"
+                    android:textAlignment="center"
+                    android:lines="1"
+                    android:textIsSelectable="false"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="0 prostih igrišč"
+                    android:id="@+id/info_text_basketball_description"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+
+
+            </FrameLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+
+
+            android:id="@+id/card_view_ice_hockey"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:onClick="onIceHockeyCardClick"
+            android:layout_weight="1">
+
+            <FrameLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_centerInParent="true">
+
+
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ice_hockey"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/info_text_ice_hockey"
+                    android:layout_width="wrap_content"
+                    android:layout_height="83dp"
+                    android:layout_gravity="center"
+                    android:text="Hokej"
+                    android:textAlignment="center"
+                    android:lines="1"
+                    android:textIsSelectable="false"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="0 prostih igrišč"
+                    android:id="@+id/info_text_ice_hockey_description"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+
+
+            </FrameLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+
+            android:id="@+id/card_view_running"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:onClick="onRunningCardClick"
+            android:layout_weight="1">
+
+            <FrameLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_centerInParent="true">
+
+
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/running"
+
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/info_text_running"
+                    android:layout_width="wrap_content"
+                    android:layout_height="83dp"
+                    android:layout_gravity="center"
+                    android:text="TEK"
+
+                    android:textAlignment="center"
+                    android:lines="1"
+                    android:textIsSelectable="false"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="0 prostih igrišč"
+                    android:id="@+id/info_text_running_description"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+
+
+
+
+            </FrameLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+
+            android:id="@+id/card_view_fittnes"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:onClick="onFittnesCardClick"
+            android:layout_weight="1">
+
+            <FrameLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:layout_centerInParent="true">
+
+
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/fitness"
+                    android:contentDescription="footballCard"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center"
+                    />
+
+                <TextView
+                    android:id="@+id/info_text_fittnes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="83dp"
+                    android:layout_gravity="center"
+                    android:text="Fitnes"
+
+                    android:textAlignment="center"
+                    android:lines="1"
+                    android:textIsSelectable="false"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="0 prostih igrišč"
+                    android:id="@+id/info_text_fittnes_description"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"/>
+
+
+            </FrameLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+</RelativeLayout>

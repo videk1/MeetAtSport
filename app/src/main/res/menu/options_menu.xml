@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="saveourcar.soc.MainActivity">
+    <item
+        android:id="@+id/action_edit"
+        android:orderInCategory="2"
+        android:title="Spremeni geslo"
+        android:onClick="onEditOptionClick"
+        app:showAsAction="never" >
+    </item>
+    <item
+        android:id="@+id/action_odjavi"
+        android:orderInCategory="3"
+        android:title="Odjava"
+        android:onClick="onLogoutOptionClick"
+        app:showAsAction="never" >
+    </item>
+    <item
+    android:id="@+id/action_editProfile"
+    android:orderInCategory="1"
+    android:title="Uredi profil"
+    android:onClick="onEditProfileOptionClick"
+    app:showAsAction="never">
+    </item>
+
+
+    <item
+    android:id="@+id/action_AddSport"
+    android:orderInCategory="0"
+    android:title="Dodaj dogodek"
+    android:onClick="onAddSportClick"
+    app:showAsAction="never">
+    </item>
+
+</menu>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_0817546827fa32c94ff14ef90cb84880b85f0561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_bd0d2a9ba5aa369fe92e205c7ece9c015f722356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_320a1f82f7562b863782fae411771a09ccc51281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nejc Ravnik\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_8391e18f5860f722c883864b3f5b8d66081f51ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_9300b669ebe03a3c9260730c468b0d1fdc2685ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_4b51d3efea1e0fdf062bbc877ba549cc650aae0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_702727c695b17586fb137577ec9053474c6d1814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f68018b5ddc2493f5e5cecc5601c05d0539281a">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.1.0_910d4efdb47408d1f4b2343625b22ba911cffb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_d6ad8f0f926141252a6493511c9d809a104867d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4fa75355a76f882b16dffcd6db50363fe8c70ee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_44c99245b1a53e1fb0b9d51b12ece102a3b327b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nejc Ravnik\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9dd777ec48bb2873fb727f555d599e1b63dc8915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_431af10a57ecc910d79d0b25123c477cd64faa72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\meetatsport\sqlite-android-3160100\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d99ba70e7f5d10f37181fe788c042895b742ffd">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\meetatsport-sqlite-android-3160100-unspecified_9b140e86e07bc0a3025ead2d03c98d25814324a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nejc Ravnik\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\library-1.0.19_347d4ff42c282b8c6e38bb71c925dfc163e1e150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_2ceeb2d9f444985d44a11615b6c9808305ec2e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Nejc Ravnik\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\20.0\89507701249388e1ed5ddcf8c41f4ce1be7831ef\guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\guava-20.0_f517febdb4294f0beea80114c6e2f9ac3b14c31c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.18.0_2fa96113f0e15d49690a648817c6998cf602eef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_e6d5a6749f19ba19f4347fa68749e822e58de6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_79f7311de583c88af45e151231ca6bb212f6805a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_1731da69508121d567b0757fd51b6c6ec345017f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c1c08695849034038e3debef50bc70bb32f60840">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.2.0_0237a35e8662145980c19dde33938566ee1f0e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\FRI\2.letnik2gic\EMP\meetatsport\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_35a5e68330e7e5beecf04e1af50de3d320607c66.jar" />
+    </item>
+
+</items>
